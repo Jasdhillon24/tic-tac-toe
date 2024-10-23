@@ -2,7 +2,10 @@
 
 A configurable Tic Tac Toe game built with Expo, supporting dynamic board sizes. The game uses two main React components for the UI and handles the game logic via `utils/TicTacToe.ts`. Lottie animations are used to enhance the user experience.
 
-## Screenshots
+## Preview
+
+https://github.com/user-attachments/assets/ac1763b5-e90d-49ec-a2d9-3f1523a30ee8
+
 
 ## Getting Started
 
