@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "strict": true,
-    "jsx": "react", 
+    "jsx": "react",
     "allowJs": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
@@ -16,5 +16,6 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+  ],
+  "extends": "expo/tsconfig.base"
 }
